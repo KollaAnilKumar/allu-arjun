@@ -147,7 +147,7 @@ html {
     #img-caption {
       font-size: 1.4rem;
     }
-  }
+  
   
   #headline {
     margin: 50px 0;
@@ -174,7 +174,11 @@ html {
 tr > * + * {
   padding-left: 4em;
 }
-  
+iframe{
+    width:80%;
+    }
+
+  }
 
 @media (max-width: 768px){
     .navbar{
@@ -318,7 +322,7 @@ frame{
   padding-left: 4em;
 }
 frame{
-  width:100%;
+  width:80%;
 }
     
 }
